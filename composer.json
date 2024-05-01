@@ -1,5 +1,5 @@
 {
-    "name": "paradoxe/laravel-google-drive-storage",
+    "name": "yaza/laravel-google-drive-storage",
     "description": "This is my package laravel-google-drive-storage",
     "keywords": [
         "laravel-google-drive-storage"
@@ -13,10 +13,9 @@
             "role": "Developer"
         }
     ],
-    "type": "library",
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^9.0|^10.0|^11.0",
+        "illuminate/contracts": "^10.0|^11.0",
         "masbug/flysystem-google-drive-ext": "^2.2",
         "spatie/laravel-package-tools": "^1.13.0"
     },
